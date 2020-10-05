@@ -4,11 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-"test": "echo 'Hello World!'"
-}, 
-"keywords": [
+    "test": "echo 'Hello World!'"
+  },
+  "keywords": [
     "Shihab"
   ],
   "author": "Shihab",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.0"
+  }
 }
